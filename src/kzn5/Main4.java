@@ -9,4 +9,5 @@ interface Workers{
     String getWorkerData();
 
      int getSlary();
+    int getAction();
 }
